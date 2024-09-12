@@ -34,12 +34,18 @@ I enjoy learning new technologies and continuously improving my development skil
 
 ## 📂 Projects
 
-### 1. Technokhoj 2024 (Project URL)
-A Fully responsive website design and developer using bootstarp-5 and other things for ISTAR-Technical Event ----> "Technokhoj-2024".
+### 1. Technokhoj 2024 (http://www.istar.edu.in/tkhoj/)
+A Fully responsive website design and developed using bootstarp-5 and other things for ISTAR-Technical Event ----> "Technokhoj-2024".
 
 - Frontend: HTML, CSS, Javascript, Jquery, Bootstrap-5
 - Deployed on: ISTAR College domain
 - Project type = Website (Static)
+
+### 2. ISTAR DASHBORD 2024 (Project URL)
+A Fully responsive web-app/Dashbord with real-time data and reports which is design and developed in many tech for ISTAR.
+
+- Frontend: HTML, CSS, Javascript, Jquery, Bootstrap-5, Ajax, XML, JSON, PHP, MySQl.
+- Project type = Web-application (Dashbord/Portal type)
 
 <!-- ### 2. [Project Name](Project URL)
 A brief description of the project. Include key features, tech stack, and the purpose.
@@ -54,8 +60,7 @@ A brief description of the project. Include key features, tech stack, and the pu
 ## 🌱 Currently Learning
 - TypeScript
 - React-Native,
-- Next.js
-
+  
 ---
 
 ## 📫 How to Reach Me
