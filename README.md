@@ -42,7 +42,7 @@ A Fully responsive website design and developed using bootstarp-5 and other thin
 - Deployed on: ISTAR College domain
 - Project type = Website (Static)
 
-### 2. ISTAR DASHBORD 2024 (Project URL)
+### 2. ISTAR DASHBORD 2024
 A Fully responsive web-app/Dashbord with real-time data and reports which is design and developed in many tech for ISTAR.
 
 - Frontend: HTML, CSS, Javascript, Jquery, Bootstrap-5, Ajax, XML, JSON,
