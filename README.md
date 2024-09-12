@@ -44,9 +44,15 @@ A Fully responsive website design and developed using bootstarp-5 and other thin
 ### 2. ISTAR DASHBORD 2024 (Project URL)
 A Fully responsive web-app/Dashbord with real-time data and reports which is design and developed in many tech for ISTAR.
 
-- Frontend: HTML, CSS, Javascript, Jquery, Bootstrap-5, Ajax, XML, JSON, PHP, MySQl.
+- Frontend: HTML, CSS, Javascript, Jquery, Bootstrap-5, Ajax, XML, JSON,
+- Backend: PHP, MySQl.
 - Project type = Web-application (Dashbord/Portal type)
 
+### 1. CP PATEL COLLEGE (https://cppfhscc.org/)
+A Fully responsive website design and developed me when  worked at SMS FOR YOU. 
+
+- Tech: HTML, CSS, Javascript, Jquery, Wordpress, PHP
+- Project type = Website (Dynamic)
 <!-- ### 2. [Project Name](Project URL)
 A brief description of the project. Include key features, tech stack, and the purpose.
 
