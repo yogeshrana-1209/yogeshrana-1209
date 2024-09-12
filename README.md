@@ -72,7 +72,7 @@ A brief description of the project. Include key features, tech stack, and the pu
 
 ## 📫 How to Reach Me
 - LinkedIn: https://www.linkedin.com/in/yogesh-rana-linkdin (LinkedIn URL)
-- Portfolio: (Portfolio URL)
+- Portfolio: https://yogeshrana.netlify.app/
 - Email: yr70416@gmail.com
 
 ---
