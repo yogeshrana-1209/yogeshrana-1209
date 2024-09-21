@@ -50,7 +50,7 @@ A Fully responsive web-app/Dashbord with real-time data and reports which is des
 - Project type = Web-application (Dashbord/Portal type)
 
 ### 3. CP PATEL COLLEGE (https://cppfhscc.org/)
-A Fully responsive website design and developed me when  worked at SMS FOR YOU. 
+A Fully responsive website design and developed by me when I worked at SMS FOR YOU. 
 
 - Tech: HTML, CSS, Javascript, Jquery, Wordpress, PHP
 - Project type = Website (Dynamic)
