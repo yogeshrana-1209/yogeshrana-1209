@@ -65,10 +65,8 @@ A brief description of the project. Include key features, tech stack, and the pu
 
 
 ## 🌱 Currently Learning
-- TypeScript
-- React-Native,
-  
----
+- Python Webframework Django
+- Laravel
 
 ## 📫 How to Reach Me
 - LinkedIn: https://www.linkedin.com/in/yogesh-rana-linkdin (LinkedIn URL)
