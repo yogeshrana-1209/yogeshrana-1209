@@ -11,9 +11,10 @@ See My Portfolio : https://yogeshrana.netlify.app/
 ## 💻 Tech Stack
 
 **Frontend:**
-- HTML5, CSS3, JavaScript (ES6+)
+- HTML5, CSS3, JavaScript (ES6+), JSX
 - React.js, Jquery
-- Bootstrap-5, SVG, 
+- Bootstrap-5, SVG,
+- Tailwind CSS
 
 **Backend:**
 - Node.js, Express.js
@@ -31,6 +32,9 @@ See My Portfolio : https://yogeshrana.netlify.app/
 - AWS
 - Git, GitHub, Github Pages
 
+** CMS / OpenSource
+- Wordpress
+  
 ---
 
 ## 📂 Projects
