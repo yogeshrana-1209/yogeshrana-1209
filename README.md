@@ -32,9 +32,11 @@ See My Portfolio : https://yogeshrana.netlify.app/
 - AWS
 - Git, GitHub, Github Pages
 
-** CMS / OpenSource
+** CMS / OpenSource **
 - Wordpress
-  
+
+** Testing **
+- Lighthouse
 ---
 
 ## 📂 Projects
